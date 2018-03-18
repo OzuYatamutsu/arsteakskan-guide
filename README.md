@@ -28,22 +28,22 @@ Arsteakskan-specific words which do not exist in Chinese or English.
 |ㄇ|m|**ㄇ**ㄢ (man) _slow_|**ㄇ**ㄧㄠ (miao) _meow_|
 |ㄈ|f|**ㄈ**ㄡ (fou) _no_|**ㄈ**ㄛㄍㄊ (fogt) _forget_|
 |ㄉ|d|**ㄉ**ㄢ (dan) _egg_|**ㄉ**ㄛㄍㄡ (dogou) _doggo_|
-|ㄊ|t|||
-|ㄋ|n|||
-|ㄌ|l|||
-|ㄍ|g|||
+|ㄊ|t|**ㄊ**ㄡ (tou) _head_|**ㄊ**ㄖㄎㄧ (trki) _turkey_|
+|ㄋ|n|**ㄋ**ㄠ (nao) _brain_|**ㄋ**ㄧㄖㄅㄞ (nirbai) _nearby_|
+|ㄌ|l|**ㄌ**ㄠ (lao) _old_|**ㄌ**ㄟㄗ (leiz) _laze_|
+|ㄍ|g|**ㄍ**ㄡ (gou) _dog_|**ㄍ**ㄖㄟㄊ (greit) _great_|
 |ㄎ|k|**ㄎ**ㄢ (kan) _to see_|**ㄎ**ㄚㄊ (kat) _cat_|
-|ㄏ|h|||
-|ㄐ|j|||
-|ㄑ|q|||
-|ㄒ|x|||
-|ㄓ|zh|||
-|ㄔ|ch|||
-|ㄕ|sh|||
-|ㄖ|r|||
-|ㄗ|z|||
-|ㄘ|c|||
-|ㄙ|s|||
+|ㄏ|h|**ㄏ**ㄝ (he) _to drink_|**ㄏ**ㄚㄊ (hat) _hat_|
+|ㄐ|j|**ㄐ**ㄧㄠ (jiao) _foot_|**ㄐ**ㄇㄆ (jmp) _jump_|
+|ㄑ|q|**ㄑ**ㄧㄢ (qian) _money_|**ㄑ**ㄨㄚㄎ (quak) _quack_|
+|ㄒ|x|**ㄒ**ㄧㄢ (xian) _wire_|_does not exist in English_|
+|ㄓ|zh|**ㄓ**ㄣ (zhen) _real_|_does not exist in English_|
+|ㄔ|ch|**ㄔ**ㄡ (chou) _smelly_|**ㄔ**ㄧㄨ (chiu) _chew_|
+|ㄕ|sh|**ㄕ**ㄢ (shan) _mountain_|**ㄕ**ㄟㄎ (sheik) _shake_|
+|ㄖ|r|**ㄖ**ㄡ (rou) _meat_|**ㄖ**ㄧㄉㄨㄙ (ridus) _reduce_|
+|ㄗ|z|**ㄗ**ㄠ (zao) _morning_|**ㄗ**ㄧㄖㄚㄎ**ㄗ** (zirakz) _Xerox_|
+|ㄘ|c|**ㄘ**ㄠ (cao) _grass_|_does not exist in English_|
+|ㄙ|s|**ㄙ**ㄚ (sa) _to spray_|**ㄙ**ㄟㄌㄧㄋ (seilin) _saline_|
 |ㄚ|a|||
 |ㄛ|o|||
 |ㄝ|e|||
@@ -57,4 +57,4 @@ Arsteakskan-specific words which do not exist in Chinese or English.
 |ㄥ|eng|||
 |ㄧ|i|||
 |ㄨ|u|||
-|ㄩ|ü|||
+|ㄩ|ü||_does not exist in English_|

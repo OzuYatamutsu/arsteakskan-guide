@@ -1,4 +1,4 @@
-# Arsteakskan language reference, yo!
+# ![](jinhai.png) Arsteakskan language reference, yo!
 
 ### tl;dr:
  * **Arsteakskan** is a fork of Chinese for Chinese and English speakers. It's
@@ -6,6 +6,8 @@
  cool or something!
 
  * Chinese words and grammar remain largely the same.
+
+ * However, there are a few Arsteakskan-specific words and grammar traits which extend Chinese grammar. Many of these are cat noises (it was written as a cat language).
 
  * It's pretty much a series of systems for representing written Chinese and
  English using [Bopomofo](https://en.wikipedia.org/wiki/Bopomofo), with a few
@@ -44,9 +46,10 @@ Arsteakskan-specific words which do not exist in Chinese or English.
 |ㄗ|z|**ㄗ**ㄠ (zao) _morning_|**ㄗ**ㄧㄖㄚㄎ**ㄗ** (zirakz) _Xerox_|
 |ㄘ|c|**ㄘ**ㄠ (cao) _grass_|_does not exist in English_|
 |ㄙ|s|**ㄙ**ㄚ (sa) _to spray_|**ㄙ**ㄟㄌㄧㄋ (seilin) _saline_|
-|ㄚ|a|||
-|ㄛ|o|||
-|ㄝ|e|||
+|ㄚ|a|**ㄚ**ㄋ (an) _peace_ |**ㄚ**ㄊ**ㄚ**ㄎ！(atak) _attack!_|
+|ㄛ|o|ㄉ**ㄛ** (duo) _many_|ㄧ**ㄛ**ㄋ (ion) _yawn_|
+|TODO|e|||
+|ㄝ|ê(h)|||
 |ㄞ|ai|||
 |ㄟ|ei|||
 |ㄠ|ao|||

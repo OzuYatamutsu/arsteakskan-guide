@@ -134,3 +134,34 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo hen **x i eng q i** yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
 <sub><sup>wo hen **m en d ei s**, ai chi **l a s a g a**</sup></sub>
+</p>
+
+#### Kana
+Japanese _kana_ can also be used as a pronunciation alternative for Chinese characters, and can be read multiple ways. This is denoted by a **subscript.**
+
+* If the subscript is <sub>1</sub> or omitted, the character is pronounced _in the language that it is written._
+
+* If the subscript is <sub>2</sub>, the character is pronounced _opposite to the language that it is written_ (i.e. kana is pronounced as Chinese or Chinese is pronounced as kana).
+
+In all cases, the meaning remains exactly the same.
+
+###### Example
+This system happens almost exclusively with 的/の and 嘻/へ.
+
+| Arsteakskan |  Pronunciation  |  Arsteakskan |  Pronunciation  |
+|:-----------:|:---------------:|:-----------:|:---------------:|
+|の<sub>(1)</sub>| <i>nou</i> (ㄋㄡ) | へ<sub>(1)</sub>| <i>he(h)</i> (ㄏㄝ) |
+|の<sub>2</sub>| <i>de</i> (ㄉㄜ) | へ<sub>2</sub>| <i>xi</i> (ㄒㄧ)
+|的<sub>(1)</sub>| <i>de</i> (ㄉㄜ) | 嘻<sub>(1)</sub>| <i>xi</i> (ㄒㄧ) |
+|的<sub>2</sub>| <i>nou</i> (ㄋㄡ) | 嘻<sub>2</sub>| <i>he(h)</i> (ㄏㄝ) |
+
+<p align="center"><img src="cat_driver.jpg" /><br /><br />
+<strong><i>My freakin' car is broken. Heh, typical.</i></strong></p>
+
+<p align="center">
+我ㄈㄖㄧㄎㄣ**の**车已ㄏㄨㄞ。
+**へ**，特有**的**。<br />
+<sub><sup>wo f r i k en **nou** che yi h u ai. **he,** te you **de.**</sup></sub><br />
+我ㄈㄖㄧㄎㄣ**の<sub>2</sub>**车已ㄏㄨㄞ。**嘻<sub>2</sub>**，ㄊㄜ有**的<sub>2</sub>**。<br />
+<sub><sup>wo f r i k en **de** che yi h u ai. **he,** t e you **nou.**</sup></sub>
+</p>

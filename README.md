@@ -51,17 +51,21 @@ Arsteakskan-specific words which do not exist in Chinese or English.
 |ㄜ|e|ㄉ**ㄜ** (de) _virtue_|ㄆ**ㄜ**ㄌ (pel) _pill_|
 |ㄝ|ê(h)|ㄉㄧ**ㄝ** (die) _to fall_|ㄅ**ㄝ**ㄉ (bed) _bed_|
 |ㄞ|ai|ㄎㄨ**ㄞ** (kuai) _fast_|ㄨ**ㄞ**？(uai) _why?_|
-|ㄟ|ei||ㄙㄊ**ㄟ**ㄎ (steik) _steak_|
-|ㄠ|ao||ㄨ**ㄠ**！(uao) _wow!_|
-|ㄡ|ou||ㄧ**ㄡ**！(iou) _yo!_|
-|ㄢ|an||ㄨ**ㄢ**ㄊ (uant) _want_|
-|ㄣ|en||ㄔㄝㄎ**ㄣ** (cheken) _chicken_|
-|ㄤ|ang||ㄅ**ㄤ**！(bang) _bang!_|
-|ㄥ|eng||ㄙㄊ**ㄥ** (steng) _stung_|
-|ㄦ|er||ㄙㄜㄊ**ㄦ** (seter) _sitter_|
-|ㄧ|i||**ㄧ**ㄊ (it) _eat_|
-|ㄨ|u||**ㄨ**ㄧㄋㄦ (uiner) _winner_|
-|ㄩ|ü||_does not exist in English_|
+|ㄟ|ei|ㄅ**ㄟ** (bei) _north_|ㄙㄊ**ㄟ**ㄎ (steik) _steak_|
+|ㄠ|ao|ㄔ**ㄠ** (chao) _noisy_|ㄨ**ㄠ**！(uao) _wow!_|
+|ㄡ|ou|ㄔ**ㄠ** (chou) _smelly_|ㄧ**ㄡ**！(iou) _yo!_|
+|ㄢ|an|ㄎ**ㄢ** (kan) _to see_|ㄨ**ㄢ**ㄊ (uant) _want_|
+|ㄣ|en|ㄕ**ㄣ** (shen) _body_|ㄔㄝㄎ**ㄣ** (cheken) _chicken_|
+|ㄤ|ang|ㄎㄨ**ㄤ** (kuang) _crazy_|ㄅ**ㄤ**！(bang) _bang!_|
+|ㄥ|eng|ㄕ**ㄥ** (sheng) _life_|ㄙㄊ**ㄥ** (steng) _stung_|
+|ㄦ|er|**ㄦ** (er)<sup>&ast;</sup> _two, and, son, ..._|ㄙㄜㄊ**ㄦ** (seter) _sitter_|
+|ㄧ|i|ㄅ**ㄧ** (bi) _pen_|**ㄧ**ㄊ (it) _eat_|
+|ㄨ|u|ㄎ**ㄨ** (ku) _to cry_|**ㄨ**ㄧㄋㄦ (uiner) _winner_|
+|ㄩ|ü|ㄒ**ㄩ** (xü) _to sympathize_|_does not exist in English_|
+
+<sup>&ast;</sup> This is an example of one syllable which contains many
+character alternatives. The meaning can still be inferred by context, but
+if not obvious, Chinese characters can always be specified instead.
 
 ### Representing words
 Arsteakskan bopomofo is **context-sensitive** -- the meaning of a word is largely dependent on the words around it. This is important, as words can be represented in _two different ways_ using bopomofo: as a representation of the Chinese pronunciation for a Chinese word, and as a representation of the English pronunciation of an English word. In special cases (detailed later), Japanese _kana_ can also be pronounced as Japanese or Arsteakskan based on a subscript marker.

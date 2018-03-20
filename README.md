@@ -48,18 +48,19 @@ Arsteakskan-specific words which do not exist in Chinese or English.
 |ㄙ|s|**ㄙ**ㄚ (sa) _to spray_|**ㄙ**ㄟㄌㄧㄋ (seilin) _saline_|
 |ㄚ|a|**ㄚ**ㄋ (an) _peace_ |**ㄚ**ㄊ**ㄚ**ㄎ！(atak) _attack!_|
 |ㄛ|o|ㄉ**ㄛ** (duo) _many_|ㄧ**ㄛ**ㄋ (ion) _yawn_|
-|ㄜ|e|||
-|ㄝ|ê(h)|||
-|ㄞ|ai|||
-|ㄟ|ei|||
-|ㄠ|ao|||
-|ㄡ|ou|||
-|ㄢ|an|||
-|ㄣ|en|||
-|ㄤ|ang|||
-|ㄥ|eng|||
-|ㄧ|i|||
-|ㄨ|u|||
+|ㄜ|e|ㄉ**ㄜ** (de) _virtue_|ㄆ**ㄜ**ㄌ (pel) _pill_|
+|ㄝ|ê(h)|ㄉㄧ**ㄝ** (die) _to fall_|ㄅ**ㄝ**ㄉ (bed) _bed_|
+|ㄞ|ai|ㄎㄨ**ㄞ** (kuai) _fast_|ㄨ**ㄞ**？(uai) _why?_|
+|ㄟ|ei||ㄙㄊ**ㄟ**ㄎ (steik) _steak_|
+|ㄠ|ao||ㄨ**ㄠ**！(uao) _wow!_|
+|ㄡ|ou||ㄧ**ㄡ**！(iou) _yo!_|
+|ㄢ|an||ㄨ**ㄢ**ㄊ (uant) _want_|
+|ㄣ|en||ㄔㄝㄎ**ㄣ** (cheken) _chicken_|
+|ㄤ|ang||ㄅ**ㄤ**！(bang) _bang!_|
+|ㄥ|eng||ㄙㄊ**ㄥ** (steng) _stung_|
+|ㄦ|er||ㄙㄜㄊ**ㄦ** (seter) _sitter_|
+|ㄧ|i||**ㄧ**ㄊ (it) _eat_|
+|ㄨ|u||**ㄨ**ㄧㄋㄦ (uiner) _winner_|
 |ㄩ|ü||_does not exist in English_|
 
 ### Representing words
@@ -89,10 +90,12 @@ Chinese words in Arsteakskan are **context-free** -- they maintain their origina
 #### A few examples
 Words along the same row have the same meaning.
 
-| Chinese |  English  |  Bopomofo  | Bopomofo |
+| Chinese |  English  |  Bopomofo  | Also bopomofo |
 |:-------:|:---------:|:----------:|:--------:|
 |   攻击  | to attack | ㄍㄨㄥㄐㄧ<br /><sub><sup>g u eng j i</sub></sup> | ㄚㄊㄚㄎ<br /><sub><sup>a t a k</sub></sup> |
 |   保护  | to protect | ㄅㄠㄏㄨ<br /><sub><sup>b ao h u</sub></sup> | ㄆㄖㄡㄊㄝㄎ<br /><sub><sup>p r ou t e(h) k</sub></sup> |
+|   鸡块  | chicken nuggets | ㄐㄧㄎㄨㄞ<br /><sub><sup>j i k u ai</sub></sup> | ㄔㄝㄎㄣㄋㄜㄍㄊㄙ<br /><sub><sup>ch e(h) k en n e g t s</sub></sup> |
+|   牛排  | beef steak | ㄋㄧㄡㄆㄞ<br /><sub><sup>n i u p ai</sub></sup> | ㄙㄊㄟㄎ<br /><sub><sup>s t ei k</sub></sup> |
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen.
 

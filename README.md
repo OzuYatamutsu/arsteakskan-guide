@@ -103,26 +103,31 @@ Words along the same row have the same meaning.
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen.
 
-###### _I walked my cat._
+<p align="center"><strong><i>I walked my cat.</i></strong></p>
 
+<p align="center">
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
 我ㄍㄣ我ㄇㄠ走ㄌㄨ。<br />
 <sub><sup>wo gen wo mao zou **l u**</sub></sup><br />
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
 <sub><sup>wo gen wo **k a t z ou** lu</sub></sup>
+</p>
 
-###### _I could still be at my house, unless I went to the bar._
+<p align="center"><strong><i>I could still be at my house, unless I went to the bar.</i></strong></p>
 
+<p align="center">
 我可以还在我家里，否则我去酒吧。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou ze wo qu jiu ba</sub></sup><br />
 我可以还在我家里，否ㄗㄜ我去ㄐㄧㄡㄅㄚ。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou **z e** wo qu **j i u b a**</sub></sup><br />
 我可以还在我ㄐㄧㄚ里，ㄈㄡ则我去ㄅㄦ。<br />
 <sub><sup>wo ke yi hai zai wo **j ia** li, **f ou** ze wo qu **b er**</sub></sup><br />
+</p>
 
-###### _I hate Mondays, and love lasagna._
+<p align="center"><strong><i>I hate Mondays, and love lasagna.</i></strong></p>
 
+<p align="center">
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />

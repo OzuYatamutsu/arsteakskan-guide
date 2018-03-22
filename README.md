@@ -206,7 +206,7 @@ In all cases, the meaning remains exactly the same.
 <sub><sup>wo friken <b>nou</b> che yi huai. <b>he,</b> te you <b>de.</b></sup></sub><br />
 我ㄈㄖㄧㄎㄣ<b>の<sub>2</sub></b>车已ㄏㄨㄞ。<b>嘻<sub>2</sub></b>，ㄊㄜ有<b>的<sub>2</sub></b>。<br />
 <sub><sup>wo friken <b>de</b> che yi huai. <b>he,</b> te you <b>nou.</b></sup></sub>
-<br />
+<br /><br /><br /><!-- Missing 3-line padding -->
 
 ---
 

@@ -254,5 +254,5 @@ Oooooh, I think I know who did it!<br />
 <p align="left">
 <b>ㄖㄝ。</b>我ㄍㄢ说。<br />
 Reh. I bet you do.<br />
-<sub><sup><b>reh.</b> wo gan shuo.</sup></sub>
+<sub><sup><b>re(h).</b> wo gan shuo.</sup></sub>
 </p>

@@ -128,10 +128,10 @@ Words along the same row have the same meaning.
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen, and each letter split apart for emphasis.
 
-<p align="center"><img src="cat_walking.jpg" /><br />
-<p align="center"><strong><i>I walked my cat.</i></strong></p>
+<img src="cat_driver.jpg" width="300" align="left"/><br />
 
-<p align="center">
+<p align="left">
+<strong><i>I walked my cat.</i></strong><br />
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
 我ㄍㄣ我ㄇㄠ¯走ㄌㄨ。<br />
@@ -140,9 +140,12 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
 
-<p align="center"><strong><i>I could still be at my house, unless I went to the bar.</i></strong></p>
+---
 
-<p align="center">
+<img src="cat_at_bar.jpg" width="300" align="left"/><br />
+
+<p align="left">
+<strong><i>I could still be at my house, unless I went to the bar.</i></strong><br />
 我可以还在我家里，否则我去酒吧。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou ze wo qu jiu ba</sub></sup><br />
 我可以还在我家里，否ㄗㄜ我去ㄐㄧㄡㄅㄚ。<br />
@@ -151,9 +154,12 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo ke yi hai zai wo <b>j ia</b> li, <b>f ou</b> ze wo qu <b>b er</b></sub></sup><br />
 </p>
 
-<p align="center"><strong><i>I hate Mondays, and love lasagna.</i></strong></p>
+---
 
-<p align="center">
+<img src="cat_at_bar.jpg" width="300" align="left"/><br />
+
+<p align="left">
+<strong><i>I hate Mondays, and love lasagna.</i></strong><br />
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />
@@ -161,6 +167,8 @@ The following sentences all have the same meaning. The word to represent as bopo
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
 <sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>
+
+---
 
 #### Kana
 Japanese _kana_ can also be used as a pronunciation alternative for Chinese characters, and can be read multiple ways. This is denoted by a **subscript.**

@@ -196,16 +196,19 @@ In all cases, the meaning remains exactly the same.
 
 ###### Example
 
-<p align="center"><img src="cat_driver.jpg" /><br /><br />
-<strong><i>My freakin' car is broken. Heh, typical.</i></strong></p>
+<img src="cat_driver.jpg" width="300" align="left"/>
 
-<p align="center">
+<p align="left">
+<strong><i>My freakin' car is broken. Heh, typical.</i></strong><br /><br />
+
 我ㄈㄖㄧㄎㄣ<b>の</b>车已ㄏㄨㄞ。
 <b>へ</b>，特有<b>的</b>。<br />
 <sub><sup>wo friken <b>nou</b> che yi huai. <b>he,</b> te you <b>de.</b></sup></sub><br />
 我ㄈㄖㄧㄎㄣ<b>の<sub>2</sub></b>车已ㄏㄨㄞ。<b>嘻<sub>2</sub></b>，ㄊㄜ有<b>的<sub>2</sub></b>。<br />
 <sub><sup>wo friken <b>de</b> che yi huai. <b>he,</b> te you <b>nou.</b></sup></sub>
-</p>
+<br />
+
+---
 
 ### Arsteakskan-specific words
 

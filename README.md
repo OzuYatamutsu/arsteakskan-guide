@@ -182,41 +182,38 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 
 ###### Example
 
-<div style="float:left">
-<img src="jinhai.png" width="100"/><br />
-<b>Jinhai (金海)</b>
-</div>
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
 
-<div style="float:left; margin-left: 20px;">
+<p align="left">
 <b>ㄏㄡㄧ</b>，你ㄗㄣ么ㄧㄤ？<br />
 Hey, how's it going?<br />
 <sub><sup><b>houi,</b> ni zen me yang?</sup></sub>
-</div>
+</p>
 
-<br /><br />
-<div style="float:right">
-<img src="fei.png" width="100"/><br />
-<b>Fei (林飞)</b>
-</div>
+---
 
-<div style="float:right; margin-right: 20px;">
+<p align="right"><b>Fei (林飞)</b></p>
+<img src="fei.png" width="100" align="right"/><br />
+
+<p align="right">
 我是ㄡㄎㄟ。你ㄜ<b>ㄇㄧㄡ？</b><br />
 I'm OK. Are you hungry?<br />
 <sub><sup>wo shi oukei. ni e <b>miou?</b></sup></sub>
-</div>
-
-<p style="margin-top: 130px"></p>
-
-<p style="float:left">
-<img src="jinhai.png" width="100"/><br />
-**Jinhai (金海)**
 </p>
 
-<p style="float:left; margin-left: 20px;">
-**ㄇㄧㄚ**，从早上没吃东西**ㄋㄧㄚ**。<br />
+---
+
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+<b>ㄇㄧㄚ</b>，从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
 Nyaa, I haven't eaten since this morning, nyaa.<br />
-<sub><sup>**nia**, cong zao shang mei chi dong xi **nia**.</sup></sub>
+<sub><sup><b>nia</b>, cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
 </p>
+
+---
 
 <br /><br />
 <p style="float:right">

@@ -215,29 +215,24 @@ Nyaa, I haven't eaten since this morning, nyaa.<br />
 
 ---
 
-<br /><br />
-<p style="float:right">
-<img src="fei.png" width="100"/><br />
-**Fei (林飞)**
-</p>
+<p align="right"><b>Fei (林飞)</b></p>
+<img src="fei.png" width="100" align="right"/><br />
 
-<p style="float:right; margin-right: 20px;">
-**ㄇㄧㄡㄋ？**ㄨㄞ？<br />
+<p align="right">
+<b>ㄇㄧㄡㄋ？<b>ㄨㄞ？</b><br />
 Huh? Why?<br />
-<sub><sup>**myoun?** oai?</sup></sub>
+<sub><sup><b>myoun?</b> oai?</sup></sub>
 </p>
 
-<p style="margin-top: 130px"></p>
+---
 
-<p style="float:left">
-<img src="jinhai.png" width="100"/><br />
-**Jinhai (金海)**
-</p>
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
 
-<p style="float:left; margin-left: 20px;">
-**ㄇㄧㄚ**，从早上没吃东西**ㄋㄧㄚ**。<br />
+<p align="left">
+<b>ㄇㄧㄚ**，从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
 Nyaa, I haven't eaten since this morning, nyaa.<br />
-<sub><sup>**nia**, cong zao shang mei chi dong xi **nia**.</sup></sub>
+<sub><sup><b>nia</b>, cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
 </p>
 
 <!-- 我太ㄇㄤ**ㄇㄧㄚㄢ**。 -->

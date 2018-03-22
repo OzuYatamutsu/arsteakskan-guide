@@ -169,7 +169,7 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 | Phrase | Pronunciation | Usage/Definition | Phrase | Pronunciation | Usage/Definition |
 |:-----------:|:-------------:|:-----:|:-----------:|:-------------:|:-----:|
 |   **ㄏㄡㄧ**    |     houi      | hello | **ㄇㄖㄠ**      |    mrao       | _free_
-|   **ㄏㄥ**    |     heng      | arousal particle | **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>*</sup>|
+|   **ㄏㄥ**    |     heng      | arousal particle | **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>&ast;</sup>|
 |   **ㄇㄧㄠ**    |     miao      | _free_ | **ㄋㄧㄚ**     |    nia       | _free_|
 | **ㄇㄧㄡㄋ？**   |     mioun?   | question particle | **ㄋㄧㄚㄋ**    |    nian       | _free_|
 | **ㄇㄧㄡ？**     |     miou?    | question particle | **ㄋㄧㄝ！**    |    nye(h)!       | jeering particle|
@@ -178,7 +178,7 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 | **ㄇㄖㄨ！**    |     mru!       | excitement particle | **ㄖㄝ**      |    re(h)       | disgust particle|
 
 
-<sup>*</sup> 没办法 (mei ban fa) is an expression which conveys acceptance with a less-than-ideal situation because "nothing can be done about it."
+<sup>&ast;</sup> 没办法 (mei ban fa) is an expression which conveys acceptance with a less-than-ideal situation because "nothing can be done about it."
 
 ###### Example
 
@@ -186,7 +186,7 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-<b>ㄏㄡㄧ</b>，你ㄗㄣ么ㄧㄤ？<br />
+<b>ㄏㄡㄧ，</b>你ㄗㄣ么ㄧㄤ？<br />
 Hey, how's it going?<br />
 <sub><sup><b>houi,</b> ni zen me yang?</sup></sub>
 </p>
@@ -208,9 +208,9 @@ I'm OK. Are you hungry?<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-<b>ㄇㄧㄚ</b>，从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
+<b>ㄇㄧㄚ，</b>从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
 Nyaa, I haven't eaten since this morning, nyaa.<br />
-<sub><sup><b>nia</b>, cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
+<sub><sup><b>nia,</b> cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
 </p>
 
 ---
@@ -219,7 +219,7 @@ Nyaa, I haven't eaten since this morning, nyaa.<br />
 <img src="fei.png" width="100" align="right"/><br />
 
 <p align="right">
-<b>ㄇㄧㄡㄋ？<b>ㄨㄞ？</b><br />
+<b>ㄇㄧㄡㄋ？</b> ㄨㄞ？<br />
 Huh? Why?<br />
 <sub><sup><b>myoun?</b> oai?</sup></sub>
 </p>
@@ -230,9 +230,29 @@ Huh? Why?<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-<b>ㄇㄧㄚ**，从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
-Nyaa, I haven't eaten since this morning, nyaa.<br />
-<sub><sup><b>nia</b>, cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
+有人把很多很多ㄊㄖㄡㄈㄧ往ㄏㄜㄉ下ㄙㄞ了。<br />
+Someone took a bunch of trophies and stuffed 'em under the hood of my car.<br />
+<sub><sup>you ren ba hen duo hen duo troufi wang houd xia sai le.</sup></sub>
 </p>
 
-<!-- 我太ㄇㄤ**ㄇㄧㄚㄢ**。 -->
+---
+
+<p align="right"><b>Fei (林飞)</b></p>
+<img src="fei.png" width="100" align="right"/><br />
+
+<p align="right">
+ㄨ～，我想我ㄓ道ㄕㄟㄗㄨㄛ！<br />
+Oooooh, I think I know who did it!<br />
+<sub><sup>u~, wo xiang wo zhi dao shei zuo!</sup></sub>
+</p>
+
+---
+
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+**ㄖㄝ**。我ㄍㄢ说。<br />
+Reh. I bet you do.<br />
+<sub><sup><b>reh.</b> wo gan shuo.</sup></sub>
+</p>

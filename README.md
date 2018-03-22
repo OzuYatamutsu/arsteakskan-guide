@@ -160,7 +160,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 
 ---
 
-<img src="cat_at_bar.jpg" width="300" align="left"/>
+<img src="cat_lasaga.jpg" width="300" align="left"/>
 
 <p align="left">
 <strong><i>I hate Mondays, and love lasagna.</i></strong><br /><br />

@@ -194,7 +194,7 @@ Hey, how's it going?<br />
 ---
 
 <p align="right"><b>Konqi (ㄎㄢㄑㄧ)</b></p>
-<img src="konqi_temp.png" width="100" align="right"/><br />
+<img src="konqi_temp_2.png" width="100" align="right"/><br />
 
 <p align="right">
 我是ㄡㄎㄟ。你ㄜ<b>ㄇㄧㄡ？</b><br />
@@ -216,7 +216,7 @@ Mya, I haven't eaten since this morning, nyaa.<br />
 ---
 
 <p align="right"><b>Konqi (ㄎㄢㄑㄧ)</b></p>
-<img src="konqi_temp.png" width="100" align="right"/><br />
+<img src="konqi_temp_2.png" width="100" align="right"/><br />
 
 <p align="right">
 <b>ㄇㄧㄡㄋ？</b> ㄨㄞ？<br />
@@ -238,7 +238,7 @@ Huh? Why?<br />
 ---
 
 <p align="right"><b>Konqi (ㄎㄢㄑㄧ)</b></p>
-<img src="konqi_temp.png" width="100" align="right"/><br />
+<img src="konqi_temp_2.png" width="100" align="right"/><br />
 
 <p align="right">
 ㄨ～，我想我ㄓ道ㄕㄟㄗㄨㄛ！<br />

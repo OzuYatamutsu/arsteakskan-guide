@@ -93,7 +93,7 @@ Words along the same row have the same meaning.
 |   鸡块  | chicken nuggets | ㄐㄧㄎㄨㄞ<br /><sub><sup>j i k u ai</sub></sup> | ㄔㄝㄎㄣㄋㄜㄍㄊㄙ<br /><sub><sup>ch e(h) k en n e g t s</sub></sup> |
 |   牛排  | beef steak | ㄋㄧㄡㄆㄞ<br /><sub><sup>n i u p ai</sub></sup> | ㄙㄊㄟㄎ<br /><sub><sup>s t ei k</sub></sup> |
 
-The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen.
+The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen, and each letter split apart for emphasis.
 
 <p align="center"><img src="cat_walking.jpg" /><br />
 <p align="center"><strong><i>I walked my cat.</i></strong></p>
@@ -155,9 +155,9 @@ In all cases, the meaning remains exactly the same.
 <p align="center">
 我ㄈㄖㄧㄎㄣ**の**车已ㄏㄨㄞ。
 **へ**，特有**的**。<br />
-<sub><sup>wo f r i k en **nou** che yi h u ai. **he,** te you **de.**</sup></sub><br />
+<sub><sup>wo friken **nou** che yi huai. **he,** te you **de.**</sup></sub><br />
 我ㄈㄖㄧㄎㄣ**の<sub>2</sub>**车已ㄏㄨㄞ。**嘻<sub>2</sub>**，ㄊㄜ有**的<sub>2</sub>**。<br />
-<sub><sup>wo f r i k en **de** che yi h u ai. **he,** t e you **nou.**</sup></sub>
+<sub><sup>wo friken **de** che yi huai. **he,** te you **nou.**</sup></sub>
 </p>
 
 ### Arsteakskan-specific words
@@ -168,14 +168,79 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 
 | Phrase | Pronunciation | Usage/Definition | Phrase | Pronunciation | Usage/Definition |
 |:-----------:|:-------------:|:-----:|:-----------:|:-------------:|:-----:|
-|   **ㄇㄧㄠ**    |     miao      | _free_| **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>*</sup>|
-| **ㄇㄧㄡㄋ？**   |     mioun?   | question particle| **ㄋㄧㄚ**     |    nia       | _free_|
-| **ㄇㄧㄡ？**     |     miou?    | question particle| **ㄋㄧㄚㄋ**    |    nian       | _free_|
-| **ㄇㄧㄚ**      |     mia       | _free_| **ㄋㄧㄝ！**    |    nye(h)!       | jeering particle|
-| **ㄇㄧㄚㄢ**    |     mian      | a person | **ㄖㄚ！**      |    ra!       | attacking particle|
-| **ㄇㄖㄨ！**    |     mru!       | excitement particle| **ㄖㄠ**      |    rao       | _free_|
-| **ㄇㄖㄠ**      |    mrao       | _free_| **ㄖㄝ**      |    re(h)       | disgust particle|
+|   **ㄏㄡㄧ**    |     houi      | hello | **ㄇㄖㄠ**      |    mrao       | _free_
+|   **ㄏㄥ**    |     heng      | arousal particle | **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>*</sup>|
+|   **ㄇㄧㄠ**    |     miao      | _free_ | **ㄋㄧㄚ**     |    nia       | _free_|
+| **ㄇㄧㄡㄋ？**   |     mioun?   | question particle | **ㄋㄧㄚㄋ**    |    nian       | _free_|
+| **ㄇㄧㄡ？**     |     miou?    | question particle | **ㄋㄧㄝ！**    |    nye(h)!       | jeering particle|
+| **ㄇㄧㄚ**      |     mia       | _free_ | **ㄖㄚ！**      |    ra!       | attacking particle|
+| **ㄇㄧㄚㄢ**    |     mian      | person, dude | **ㄖㄠ**      |    rao       | _free_|
+| **ㄇㄖㄨ！**    |     mru!       | excitement particle | **ㄖㄝ**      |    re(h)       | disgust particle|
+
 
 <sup>*</sup> 没办法 (mei ban fa) is an expression which conveys acceptance with a less-than-ideal situation because "nothing can be done about it."
 
 ###### Example
+
+<p style="float:left">
+<img src="jinhai.png" width="100"/><br />
+**Jinhai (金海)**
+</p>
+
+<p style="float:left; margin-left: 20px;">
+**ㄏㄡㄧ**，你ㄗㄣ么ㄧㄤ？<br />
+Hey, how's it going?<br />
+<sub><sup>**houi,** ni zen me yang?</sup></sub>
+</p>
+
+<br /><br />
+<p style="float:right">
+<img src="fei.png" width="100"/><br />
+**Fei (林飞)**
+</p>
+
+<p style="float:right; margin-right: 20px;">
+我是ㄡㄎㄟ。你ㄜ**ㄇㄧㄡ？**<br />
+I'm OK. Are you hungry?<br />
+<sub><sup>wo shi oukei. ni e **miou?**</sup></sub>
+</p>
+
+<p style="margin-top: 130px"></p>
+
+<p style="float:left">
+<img src="jinhai.png" width="100"/><br />
+**Jinhai (金海)**
+</p>
+
+<p style="float:left; margin-left: 20px;">
+**ㄇㄧㄚ**，从早上没吃东西**ㄋㄧㄚ**。<br />
+Nyaa, I haven't eaten since this morning, nyaa.<br />
+<sub><sup>**nia**, cong zao shang mei chi dong xi **nia**.</sup></sub>
+</p>
+
+<br /><br />
+<p style="float:right">
+<img src="fei.png" width="100"/><br />
+**Fei (林飞)**
+</p>
+
+<p style="float:right; margin-right: 20px;">
+**ㄇㄧㄡㄋ？**ㄨㄞ？<br />
+Huh? Why?<br />
+<sub><sup>**myoun?** oai?</sup></sub>
+</p>
+
+<p style="margin-top: 130px"></p>
+
+<p style="float:left">
+<img src="jinhai.png" width="100"/><br />
+**Jinhai (金海)**
+</p>
+
+<p style="float:left; margin-left: 20px;">
+**ㄇㄧㄚ**，从早上没吃东西**ㄋㄧㄚ**。<br />
+Nyaa, I haven't eaten since this morning, nyaa.<br />
+<sub><sup>**nia**, cong zao shang mei chi dong xi **nia**.</sup></sub>
+</p>
+
+<!-- 我太ㄇㄤ**ㄇㄧㄚㄢ**。 -->

@@ -102,9 +102,9 @@ The following sentences all have the same meaning. The word to represent as bopo
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
 我ㄍㄣ我ㄇㄠ走ㄌㄨ。<br />
-<sub><sup>wo gen wo mao zou **l u**</sub></sup><br />
+<sub><sup>wo gen wo mao zou <b>l u</b></sub></sup><br />
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
-<sub><sup>wo gen wo **k a t z ou** lu</sub></sup>
+<sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
 
 <p align="center"><strong><i>I could still be at my house, unless I went to the bar.</i></strong></p>
@@ -113,9 +113,9 @@ The following sentences all have the same meaning. The word to represent as bopo
 我可以还在我家里，否则我去酒吧。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou ze wo qu jiu ba</sub></sup><br />
 我可以还在我家里，否ㄗㄜ我去ㄐㄧㄡㄅㄚ。<br />
-<sub><sup>wo ke yi hai zai wo jia li, fou **z e** wo qu **j i u b a**</sub></sup><br />
+<sub><sup>wo ke yi hai zai wo jia li, fou <b>z e</b> wo qu <b>j i u b a</b></sub></sup><br />
 我可以还在我ㄐㄧㄚ里，ㄈㄡ则我去ㄅㄦ。<br />
-<sub><sup>wo ke yi hai zai wo **j ia** li, **f ou** ze wo qu **b er**</sub></sup><br />
+<sub><sup>wo ke yi hai zai wo <b>j ia</b> li, <b>f ou</b> ze wo qu <b>b er</b></sub></sup><br />
 </p>
 
 <p align="center"><strong><i>I hate Mondays, and love lasagna.</i></strong></p>
@@ -124,9 +124,9 @@ The following sentences all have the same meaning. The word to represent as bopo
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />
-<sub><sup>wo hen **x i eng q i** yi, ai chi qian ceng mian</sup></sub><br />
+<sub><sup>wo hen <b>x i eng q i</b> yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
-<sub><sup>wo hen **m en d ei s**, ai chi **l a s a g a**</sup></sub>
+<sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>
 
 #### Kana
@@ -153,11 +153,11 @@ In all cases, the meaning remains exactly the same.
 <strong><i>My freakin' car is broken. Heh, typical.</i></strong></p>
 
 <p align="center">
-我ㄈㄖㄧㄎㄣ**の**车已ㄏㄨㄞ。
-**へ**，特有**的**。<br />
-<sub><sup>wo friken **nou** che yi huai. **he,** te you **de.**</sup></sub><br />
-我ㄈㄖㄧㄎㄣ**の<sub>2</sub>**车已ㄏㄨㄞ。**嘻<sub>2</sub>**，ㄊㄜ有**的<sub>2</sub>**。<br />
-<sub><sup>wo friken **de** che yi huai. **he,** te you **nou.**</sup></sub>
+我ㄈㄖㄧㄎㄣ<b>の</b>车已ㄏㄨㄞ。
+<b>へ</b>，特有<b>的</b>。<br />
+<sub><sup>wo friken <b>nou</b> che yi huai. <b>he,</b> te you <b>de.</b></sup></sub><br />
+我ㄈㄖㄧㄎㄣ<b>の<sub>2</sub></b>车已ㄏㄨㄞ。<b>嘻<sub>2</sub></b>，ㄊㄜ有<b>的<sub>2</sub></b>。<br />
+<sub><sup>wo friken <b>de</b> che yi huai. <b>he,</b> te you <b>nou.</b></sup></sub>
 </p>
 
 ### Arsteakskan-specific words
@@ -184,25 +184,25 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 
 <p style="float:left">
 <img src="jinhai.png" width="100"/><br />
-**Jinhai (金海)**
+<b>Jinhai (金海)</b>
 </p>
 
 <p style="float:left; margin-left: 20px;">
-**ㄏㄡㄧ**，你ㄗㄣ么ㄧㄤ？<br />
+<b>ㄏㄡㄧ</b>，你ㄗㄣ么ㄧㄤ？<br />
 Hey, how's it going?<br />
-<sub><sup>**houi,** ni zen me yang?</sup></sub>
+<sub><sup><b>houi,</b> ni zen me yang?</sup></sub>
 </p>
 
 <br /><br />
 <p style="float:right">
 <img src="fei.png" width="100"/><br />
-**Fei (林飞)**
+<b>Fei (林飞)</b>
 </p>
 
 <p style="float:right; margin-right: 20px;">
-我是ㄡㄎㄟ。你ㄜ**ㄇㄧㄡ？**<br />
+我是ㄡㄎㄟ。你ㄜ<b>ㄇㄧㄡ？</b><br />
 I'm OK. Are you hungry?<br />
-<sub><sup>wo shi oukei. ni e **miou?**</sup></sub>
+<sub><sup>wo shi oukei. ni e <b>miou?</b></sup></sub>
 </p>
 
 <p style="margin-top: 130px"></p>

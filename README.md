@@ -131,7 +131,8 @@ The following sentences all have the same meaning. The word to represent as bopo
 <img src="cat_walking.jpg" width="300" align="left"/>
 
 <p align="left">
-<strong><i>I walked my cat.</i></strong><br />
+<strong><i>I walked my cat.</i></strong><br /><br />
+
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
 我ㄍㄣ我ㄇㄠ¯走ㄌㄨ。<br />
@@ -146,7 +147,8 @@ The following sentences all have the same meaning. The word to represent as bopo
 <img src="cat_at_bar.jpg" width="300" align="left"/>
 
 <p align="left">
-<strong><i>I could still be at my house, unless I went to the bar.</i></strong><br />
+<strong><i>I could still be at my house, unless I went to the bar.</i></strong><br /><br />
+
 我可以还在我家里，否则我去酒吧。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou ze wo qu jiu ba</sub></sup><br />
 我可以还在我家里，否ㄗㄜ我去ㄐㄧㄡㄅㄚ。<br />
@@ -161,7 +163,8 @@ The following sentences all have the same meaning. The word to represent as bopo
 <img src="cat_at_bar.jpg" width="300" align="left"/>
 
 <p align="left">
-<strong><i>I hate Mondays, and love lasagna.</i></strong><br />
+<strong><i>I hate Mondays, and love lasagna.</i></strong><br /><br />
+
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />

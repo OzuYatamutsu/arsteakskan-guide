@@ -89,7 +89,7 @@ Chinese words in Arsteakskan are **context-free** -- they maintain their origina
 <p align="left">
 我要<b>ㄇㄞ<sup>(?)</sup></b>ㄆㄨㄊㄠㄧㄡㄙㄆㄨㄋ。<br />
 I'm going to <b>(buy?/sell?)</b> a grapefruit knife.<br />
-<sub><sup>wo yao<b>mai</b> pu tao you spun.</sup></sub>
+<sub><sup>wo yao <b>mai</b> pu tao you spun.</sup></sub>
 </p>
 
 ---
@@ -100,7 +100,7 @@ I'm going to <b>(buy?/sell?)</b> a grapefruit knife.<br />
 <p align="left">
 我要<b>ㄇㄞˇ<sup>(✓)</sup></b>ㄆㄨㄊㄠㄧㄡㄙㄆㄨㄋ。<br />
 I'm going to <b>buy</b> a grapefruit knife.<br />
-<sub><sup>wo yao<b>mai3</b> pu tao you spun.</sup></sub>
+<sub><sup>wo yao <b>mai3</b> pu tao you spun.</sup></sub>
 </p>
 
 ---

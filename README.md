@@ -1,19 +1,11 @@
 # ![](jinhai.png) Arsteakskan language reference, yo!
 
 ### tl;dr:
- * **Arsteakskan** is a fork of Chinese for Chinese and English speakers. It's
- meant to serve as a third auxiliary language for, like, if you want to look
- cool or something!
+ * **Arsteakskan** is a fork of Chinese for Chinese and English speakers. Its primary purpose is to serve as an _auxiliary language_ for representing concepts in Chinese or English when one or more aspects of the Chinese meaning are missing (e.g. knowing how to say a character but not write it, knowing what a character looks like but not how to say it, ...).
 
- * Chinese words and grammar remain largely the same.
+ * Chinese words and grammar remain largely the same, except for the fact that Arsteakskan does not use tones as a primary method of determining meaning (although it can be explicitly specified). Arsteakskan words get their meaning from the context of the surrounding sentence.
 
- * However, there are a few Arsteakskan-specific words and grammar traits which extend Chinese grammar. Many of these are cat noises (it was written as a cat language).
-
- * It's pretty much a series of systems for representing written Chinese and
- English using [bopomofo](https://en.wikipedia.org/wiki/Bopomofo), with a few
- Japanese words thrown in.
-
- * There's going to be a lot of cat references coming up. _Be warned._
+ * There are a few Arsteakskan-specific words and grammar traits which extend Chinese grammar. Many of these are cat noises (it was written as a cat language).
 
 ### Bopomofo
 **Bopomofo** is a character system designed to represent sounds in Chinese.
@@ -91,7 +83,7 @@ _Note that first tone is represented by ¯, unlike Chinese bopomofo._
 
 Chinese words in Arsteakskan are **context-free** -- they maintain their original Chinese meaning regardless. The practical effect is that if there is any trouble remembering a particular Chinese character or pronunciation, multiple alternatives to represent that concept are available.
 
-#### A few examples
+### A few examples
 Words along the same row have the same meaning.
 
 | Chinese |  English  |  Bopomofo  | Also bopomofo |
@@ -103,12 +95,13 @@ Words along the same row have the same meaning.
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen.
 
+<p align="center"><img src="cat_walking.jpg" /><br />
 <p align="center"><strong><i>I walked my cat.</i></strong></p>
 
 <p align="center">
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
-我ㄍㄣ我ㄇㄠ走ㄌㄨ。<br />
+我ㄍㄣ我ㄇㄠ走ㄌㄨ。<br />
 <sub><sup>wo gen wo mao zou **l u**</sub></sup><br />
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
 <sub><sup>wo gen wo **k a t z ou** lu</sub></sup>
@@ -143,17 +136,18 @@ Japanese _kana_ can also be used as a pronunciation alternative for Chinese char
 
 * If the subscript is <sub>2</sub>, the character is pronounced _opposite to the language that it is written_ (i.e. kana is pronounced as Chinese or Chinese is pronounced as kana).
 
-In all cases, the meaning remains exactly the same.
-
-###### Example
-This system happens almost exclusively with 的/の and 嘻/へ.
+This system happens almost exclusively with 的/の and 嘻/へ:
 
 | Arsteakskan |  Pronunciation  |  Arsteakskan |  Pronunciation  |
 |:-----------:|:---------------:|:-----------:|:---------------:|
-|の<sub>(1)</sub>| <i>nou</i> (ㄋㄡ) | へ<sub>(1)</sub>| <i>he(h)</i> (ㄏㄝ) |
-|の<sub>2</sub>| <i>de</i> (ㄉㄜ) | へ<sub>2</sub>| <i>xi</i> (ㄒㄧ)
-|的<sub>(1)</sub>| <i>de</i> (ㄉㄜ) | 嘻<sub>(1)</sub>| <i>xi</i> (ㄒㄧ) |
-|的<sub>2</sub>| <i>nou</i> (ㄋㄡ) | 嘻<sub>2</sub>| <i>he(h)</i> (ㄏㄝ) |
+|**の<sub>(1)</sub>**| <i>nou</i> (ㄋㄡ) | **へ<sub>(1)</sub>**| <i>he(h)</i> (ㄏㄝ) |
+|**の<sub>2</sub>**| <i>de</i> (ㄉㄜ) | **へ<sub>2</sub>**| <i>xi</i> (ㄒㄧ)
+|**的<sub>(1)</sub>**| <i>de</i> (ㄉㄜ) | **嘻<sub>(1)</sub>**| <i>xi</i> (ㄒㄧ) |
+|**的<sub>2</sub>**| <i>nou</i> (ㄋㄡ) | **嘻<sub>2</sub>**| <i>he(h)</i> (ㄏㄝ) |
+
+In all cases, the meaning remains exactly the same.
+
+###### Example
 
 <p align="center"><img src="cat_driver.jpg" /><br /><br />
 <strong><i>My freakin' car is broken. Heh, typical.</i></strong></p>
@@ -165,3 +159,23 @@ This system happens almost exclusively with 的/の and 嘻/へ.
 我ㄈㄖㄧㄎㄣ**の<sub>2</sub>**车已ㄏㄨㄞ。**嘻<sub>2</sub>**，ㄊㄜ有**的<sub>2</sub>**。<br />
 <sub><sup>wo f r i k en **de** che yi h u ai. **he,** t e you **nou.**</sup></sub>
 </p>
+
+### Arsteakskan-specific words
+
+Not all words in Arsteakskan come from Chinese or English -- some words stand on their own. Some are slang, while others are particles used specific to the context of the sentence.
+
+Particles must be used either at the end of a sentence, or as a standalone expression. Words marked as _free_ below can be inserted _anywhere_ in a sentence.
+
+| Phrase | Pronunciation | Usage/Definition | Phrase | Pronunciation | Usage/Definition |
+|:-----------:|:-------------:|:-----:|:-----------:|:-------------:|:-----:|
+|   **ㄇㄧㄠ**    |     miao      | _free_| **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>*</sup>|
+| **ㄇㄧㄡㄋ？**   |     mioun?   | question particle| **ㄋㄧㄚ**     |    nia       | _free_|
+| **ㄇㄧㄡ？**     |     miou?    | question particle| **ㄋㄧㄚㄋ**    |    nian       | _free_|
+| **ㄇㄧㄚ**      |     mia       | _free_| **ㄋㄧㄝ！**    |    nye(h)!       | jeering particle|
+| **ㄇㄧㄚㄢ**    |     mian      | a person | **ㄖㄚ！**      |    ra!       | attacking particle|
+| **ㄇㄖㄨ！**    |     mru!       | excitement particle| **ㄖㄠ**      |    rao       | _free_|
+| **ㄇㄖㄠ**      |    mrao       | _free_| **ㄖㄝ**      |    re(h)       | disgust particle|
+
+<sup>*</sup> 没办法 (mei ban fa) is an expression which conveys acceptance with a less-than-ideal situation because "nothing can be done about it."
+
+###### Example

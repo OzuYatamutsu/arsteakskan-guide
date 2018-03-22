@@ -124,7 +124,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />
-<sub><sup>wo hen <b>x i eng q i</b> yi, ai chi qian ceng mian</sup></sub><br />
+<sub><sup>wo hen <b>x i eng q i</b> yi, ai chi qian <b>c eng</b> mian</sup></sub><br />
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
 <sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>

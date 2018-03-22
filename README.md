@@ -128,7 +128,7 @@ Words along the same row have the same meaning.
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen, and each letter split apart for emphasis.
 
-<img src="cat_driver.jpg" width="300" align="left"/><br />
+<img src="cat_walking.jpg" width="300" align="left"/>
 
 <p align="left">
 <strong><i>I walked my cat.</i></strong><br />
@@ -139,10 +139,10 @@ The following sentences all have the same meaning. The word to represent as bopo
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
 <sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
-
+<br />
 ---
 
-<img src="cat_at_bar.jpg" width="300" align="left"/><br />
+<img src="cat_at_bar.jpg" width="300" align="left"/>
 
 <p align="left">
 <strong><i>I could still be at my house, unless I went to the bar.</i></strong><br />
@@ -153,10 +153,10 @@ The following sentences all have the same meaning. The word to represent as bopo
 我可以还在我ㄐㄧㄚ里，ㄈㄡ则我去ㄅㄦ。<br />
 <sub><sup>wo ke yi hai zai wo <b>j ia</b> li, <b>f ou</b> ze wo qu <b>b er</b></sub></sup><br />
 </p>
-
+<br />
 ---
 
-<img src="cat_at_bar.jpg" width="300" align="left"/><br />
+<img src="cat_at_bar.jpg" width="300" align="left"/>
 
 <p align="left">
 <strong><i>I hate Mondays, and love lasagna.</i></strong><br />
@@ -167,7 +167,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
 <sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>
-
+<br />
 ---
 
 #### Kana

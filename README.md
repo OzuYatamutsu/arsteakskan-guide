@@ -83,6 +83,39 @@ _Note that first tone is represented by ¯, unlike Chinese bopomofo._
 
 Chinese words in Arsteakskan are **context-free** -- they maintain their original Chinese meaning regardless. The practical effect is that if there is any trouble remembering a particular Chinese character or pronunciation, multiple alternatives to represent that concept are available.
 
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+我要<b>ㄇㄞ<sup>(?)</sup></b>ㄆㄨㄊㄠㄧㄡㄙㄆㄨㄋ。<br />
+I'm going to <b>(buy?/sell?)</b> a grapefruit knife.<br />
+<sub><sup>wo yao<b>mai</b> pu tao you spun.</sup></sub>
+</p>
+
+---
+
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+我要<b>ㄇㄞˇ<sup>(✓)</sup></b>ㄆㄨㄊㄠㄧㄡㄙㄆㄨㄋ。<br />
+I'm going to <b>buy</b> a grapefruit knife.<br />
+<sub><sup>wo yao<b>mai3</b> pu tao you spun.</sup></sub>
+</p>
+
+---
+
+<p align="right"><b>Fei (林飞)</b></p>
+<img src="fei.png" width="100" align="right"/><br />
+
+<p align="right">
+ㄎㄨ！我会<b>卖。</b><br />
+Cool! I can <b>sell</b> one to you.<br />
+<sub><sup>ku! wo hui <b>mai4</b></sup></sub>
+</p>
+
+---
+
 ### A few examples
 Words along the same row have the same meaning.
 
@@ -101,8 +134,8 @@ The following sentences all have the same meaning. The word to represent as bopo
 <p align="center">
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
-我ㄍㄣ我ㄇㄠ走ㄌㄨ。<br />
-<sub><sup>wo gen wo mao zou <b>l u</b></sub></sup><br />
+我ㄍㄣ我ㄇㄠ¯走ㄌㄨ。<br />
+<sub><sup>wo gen wo mao1 zou <b>l u</b></sub></sup><br />
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
 <sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
@@ -230,9 +263,9 @@ Huh? Why?<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-因为有人把很多很多ㄊㄖㄡㄈㄧ往ㄏㄜㄉ下ㄙㄞ了。它ㄏㄨㄞ了。<br />
+因为有人把很多很多ㄊㄖㄡㄈㄧ往ㄏㄜㄉ下ㄙㄞ¯了。它ㄏㄨㄞ了。<br />
 'Cause someone took a bunch of trophies and stuffed 'em under the hood of my car. It broke.<br />
-<sub><sup>yin wei you ren ba hen duo hen duo troufi wang houd xia sai le. ta huai le.</sup></sub>
+<sub><sup>yin wei you ren ba hen duo hen duo troufi wang houd xia sai1 le. ta huai le.</sup></sub>
 </p>
 
 ---
@@ -252,7 +285,7 @@ Oooooh, I think I know who did it!<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-<b>ㄖㄝ。</b>我ㄍㄢ说。<br />
+<b>ㄖㄝ。</b>我ㄍㄢˇ说。<br />
 Reh. I bet you do.<br />
-<sub><sup><b>re(h).</b> wo gan shuo.</sup></sub>
+<sub><sup><b>re(h).</b> wo gan3 shuo.</sup></sub>
 </p>

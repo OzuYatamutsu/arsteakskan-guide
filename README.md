@@ -128,10 +128,11 @@ Words along the same row have the same meaning.
 
 The following sentences all have the same meaning. The word to represent as bopomofo was arbitrarily chosen, and each letter split apart for emphasis.
 
-<p align="center"><img src="cat_walking.jpg" /><br />
-<p align="center"><strong><i>I walked my cat.</i></strong></p>
+<img src="cat_walking.jpg" width="300" align="left"/>
 
-<p align="center">
+<p align="left">
+<strong><i>I walked my cat.</i></strong><br /><br />
+
 我跟我猫走路。<br />
 <sub><sup>wo gen wo mao zou lu</sub></sup><br />
 我ㄍㄣ我ㄇㄠ¯走ㄌㄨ。<br />
@@ -139,10 +140,15 @@ The following sentences all have the same meaning. The word to represent as bopo
 我ㄍㄣ我ㄎㄝㄊㄗㄡ路。<br/>
 <sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
+<br />
 
-<p align="center"><strong><i>I could still be at my house, unless I went to the bar.</i></strong></p>
+---
 
-<p align="center">
+<img src="cat_at_bar.jpg" width="300" align="left"/>
+
+<p align="left">
+<strong><i>I could still be at my house, unless I went to the bar.</i></strong><br /><br />
+
 我可以还在我家里，否则我去酒吧。<br />
 <sub><sup>wo ke yi hai zai wo jia li, fou ze wo qu jiu ba</sub></sup><br />
 我可以还在我家里，否ㄗㄜ我去ㄐㄧㄡㄅㄚ。<br />
@@ -150,10 +156,15 @@ The following sentences all have the same meaning. The word to represent as bopo
 我可以还在我ㄐㄧㄚ里，ㄈㄡ则我去ㄅㄦ。<br />
 <sub><sup>wo ke yi hai zai wo <b>j ia</b> li, <b>f ou</b> ze wo qu <b>b er</b></sub></sup><br />
 </p>
+<br />
 
-<p align="center"><strong><i>I hate Mondays, and love lasagna.</i></strong></p>
+---
 
-<p align="center">
+<img src="cat_lasaga.jpg" width="300" align="left"/>
+
+<p align="left">
+<strong><i>I hate Mondays, and love lasagna.</i></strong><br /><br />
+
 我恨星期一，爱吃千层面。<br />
 <sub><sup>wo hen xing qi yi, ai chi qian ceng mian</sup></sub><br />
 我恨ㄒㄧㄥㄑㄧ一，ㄞ吃千ㄘㄥ面。<br />
@@ -161,6 +172,9 @@ The following sentences all have the same meaning. The word to represent as bopo
 我恨ㄇㄣㄉㄟㄙ，ㄞ吃ㄌㄚㄙㄚㄍㄚ。<br />
 <sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>
+<br />
+
+---
 
 #### Kana
 Japanese _kana_ can also be used as a pronunciation alternative for Chinese characters, and can be read multiple ways. This is denoted by a **subscript.**
@@ -182,16 +196,19 @@ In all cases, the meaning remains exactly the same.
 
 ###### Example
 
-<p align="center"><img src="cat_driver.jpg" /><br /><br />
-<strong><i>My freakin' car is broken. Heh, typical.</i></strong></p>
+<img src="cat_driver.jpg" width="300" align="left"/>
 
-<p align="center">
+<p align="left">
+<strong><i>My freakin' car is broken. Heh, typical.</i></strong><br /><br />
+
 我ㄈㄖㄧㄎㄣ<b>の</b>车已ㄏㄨㄞ。
 <b>へ</b>，特有<b>的</b>。<br />
 <sub><sup>wo friken <b>nou</b> che yi huai. <b>he,</b> te you <b>de.</b></sup></sub><br />
 我ㄈㄖㄧㄎㄣ<b>の<sub>2</sub></b>车已ㄏㄨㄞ。<b>嘻<sub>2</sub></b>，ㄊㄜ有<b>的<sub>2</sub></b>。<br />
 <sub><sup>wo friken <b>de</b> che yi huai. <b>he,</b> te you <b>nou.</b></sup></sub>
-</p>
+<br /><br /><br /><!-- Missing 3-line padding -->
+
+---
 
 ### Arsteakskan-specific words
 

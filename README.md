@@ -230,9 +230,9 @@ Huh? Why?<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-有人把很多很多ㄊㄖㄡㄈㄧ往ㄏㄜㄉ下ㄙㄞ了。<br />
-Someone took a bunch of trophies and stuffed 'em under the hood of my car.<br />
-<sub><sup>you ren ba hen duo hen duo troufi wang houd xia sai le.</sup></sub>
+因为有人把很多很多ㄊㄖㄡㄈㄧ往ㄏㄜㄉ下ㄙㄞ了。它ㄏㄨㄞ了。<br />
+'Cause someone took a bunch of trophies and stuffed 'em under the hood of my car. It broke.<br />
+<sub><sup>yin wei you ren ba hen duo hen duo troufi wang houd xia sai le. ta huai le.</sup></sub>
 </p>
 
 ---
@@ -252,7 +252,7 @@ Oooooh, I think I know who did it!<br />
 <img src="jinhai.png" width="100" align="left"/><br />
 
 <p align="left">
-**ㄖㄝ**。我ㄍㄢ说。<br />
+<b>ㄖㄝ。</b>我ㄍㄢ说。<br />
 Reh. I bet you do.<br />
 <sub><sup><b>reh.</b> wo gan shuo.</sup></sub>
 </p>

@@ -73,15 +73,15 @@ If bopomofo represents an English pronunciation, there is a many-to-one relation
 | che | ch e | k er |  k a r |
 
 
-Unlike in Chinese bopomofo, Arsteakskan bopomofo tone markers are optional (the character specified by the pronunciation is chosen based on the context), but can be explicitly specified if needed. Tone markers are specified below:
+Unlike in Chinese bopomofo, Arsteakskan bopomofo tone markers are optional (the character specified by the pronunciation is chosen based on the context), but can be explicitly specified if needed -- particularly, to hint at the intended word when the surrounded context produces multiple alternatives. 
+
+Tone markers are specified below:
 
 | neutral | flat (1) | rising (2) | falling-rising (3) | falling (4) |
 |:-------:|:--------:|:----------:|:------------------:|:-----------:|
 |    ˙    |     ¯    |      ˊ     |          ˇ         |      ˋ      |
 
 _Note that first tone is represented by ¯, unlike Chinese bopomofo._
-
-Chinese words in Arsteakskan are **context-free** -- they maintain their original Chinese meaning regardless. The practical effect is that if there is any trouble remembering a particular Chinese character or pronunciation, multiple alternatives to represent that concept are available.
 
 ###### Example
 
@@ -118,7 +118,9 @@ Cool! I can <b>sell</b> one to you.<br />
 
 ---
 
-### A few more bopomofo examples 
+As demonstrated above, Chinese words in Arsteakskan are **context-free** -- they maintain their original Chinese meaning regardless. The practical effect is that if there is any trouble remembering a particular Chinese character or pronunciation, multiple alternatives to represent that concept are available.
+
+### A few more bopomofo examples
 Words along the same row have the same meaning.
 
 | Chinese |  English  |  Bopomofo  | Also bopomofo |

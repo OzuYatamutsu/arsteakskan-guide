@@ -83,6 +83,8 @@ _Note that first tone is represented by ¯, unlike Chinese bopomofo._
 
 Chinese words in Arsteakskan are **context-free** -- they maintain their original Chinese meaning regardless. The practical effect is that if there is any trouble remembering a particular Chinese character or pronunciation, multiple alternatives to represent that concept are available.
 
+###### Example
+
 <p align="left"><b>Jinhai (金海)</b></p>
 <img src="jinhai.png" width="100" align="left"/><br />
 
@@ -116,7 +118,7 @@ Cool! I can <b>sell</b> one to you.<br />
 
 ---
 
-### A few examples
+### A few more bopomofo examples 
 Words along the same row have the same meaning.
 
 | Chinese |  English  |  Bopomofo  | Also bopomofo |

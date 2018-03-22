@@ -209,8 +209,8 @@ I'm OK. Are you hungry?<br />
 
 <p align="left">
 <b>ㄇㄧㄚ，</b>从早上没吃东西<b>ㄋㄧㄚ</b>。<br />
-Nyaa, I haven't eaten since this morning, nyaa.<br />
-<sub><sup><b>nia,</b> cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
+Mya, I haven't eaten since this morning, nyaa.<br />
+<sub><sup><b>mia,</b> cong zao shang mei chi dong xi <b>nia</b>.</sup></sub>
 </p>
 
 ---

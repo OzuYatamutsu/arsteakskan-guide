@@ -111,7 +111,7 @@ I'm going to <b>buy</b> a grapefruit knife.<br />
 <p align="right">
 ㄎㄨ！我会<b>卖<sup>(✓)</sup>。</b><br />
 Cool! I can <b>sell</b> one to you.<br />
-<sub><sup>ku! wo hui <b>mai4</b></sup></sub>
+<sub><sup>ku! wo hui <b>mai4.</b></sup></sub>
 </p>
 
 ---

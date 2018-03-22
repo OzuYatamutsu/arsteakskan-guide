@@ -140,6 +140,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo gen wo <b>k a t z ou</b> lu</sub></sup>
 </p>
 <br />
+
 ---
 
 <img src="cat_at_bar.jpg" width="300" align="left"/>
@@ -154,6 +155,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo ke yi hai zai wo <b>j ia</b> li, <b>f ou</b> ze wo qu <b>b er</b></sub></sup><br />
 </p>
 <br />
+
 ---
 
 <img src="cat_at_bar.jpg" width="300" align="left"/>
@@ -168,6 +170,7 @@ The following sentences all have the same meaning. The word to represent as bopo
 <sub><sup>wo hen <b>m en d ei s</b>, ai chi <b>l a s a g a</b></sup></sub>
 </p>
 <br />
+
 ---
 
 #### Kana

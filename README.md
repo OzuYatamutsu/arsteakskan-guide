@@ -182,28 +182,28 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 
 ###### Example
 
-<p style="float:left">
+<div style="float:left">
 <img src="jinhai.png" width="100"/><br />
 <b>Jinhai (金海)</b>
-</p>
+</div>
 
-<p style="float:left; margin-left: 20px;">
+<div style="float:left; margin-left: 20px;">
 <b>ㄏㄡㄧ</b>，你ㄗㄣ么ㄧㄤ？<br />
 Hey, how's it going?<br />
 <sub><sup><b>houi,</b> ni zen me yang?</sup></sub>
-</p>
+</div>
 
 <br /><br />
-<p style="float:right">
+<div style="float:right">
 <img src="fei.png" width="100"/><br />
 <b>Fei (林飞)</b>
-</p>
+</div>
 
-<p style="float:right; margin-right: 20px;">
+<div style="float:right; margin-right: 20px;">
 我是ㄡㄎㄟ。你ㄜ<b>ㄇㄧㄡ？</b><br />
 I'm OK. Are you hungry?<br />
 <sub><sup>wo shi oukei. ni e <b>miou?</b></sup></sub>
-</p>
+</div>
 
 <p style="margin-top: 130px"></p>
 

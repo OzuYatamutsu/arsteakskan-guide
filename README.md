@@ -362,3 +362,50 @@ Nyeeeeeeeh!!<br />
 
 ---
 
+### Appendix - Excerpt from _Alice in Wonderland_
+
+###### Arsteakskan
+“我看の<sub>2</sub>汤里の胡ㄐㄧㄠ一定加太多ㄖㄝ！” ㄚㄌㄟㄙ说着就觉要打ㄙㄋㄧㄗ。<br />
+ㄉㄜㄔㄧㄙ自己也有时候打ㄙㄋㄧㄗ；小孩呢，反ㄈㄨ一打ㄙㄋㄧㄗ就ㄏㄡ叫。<br />
+那ㄔㄨ房只有两个不打ㄙㄋㄧㄗの：一个就是ㄕㄝㄈ、一个就是一只猫，<br />
+ㄍㄜㄖㄧㄋ到耳ㄉㄛ˙去了。<br />
+
+ㄚㄌㄟㄙㄊㄇㄝㄇㄝㄉ地问：“请问你可能ㄍㄠㄙㄨ我你猫为什么这样の笑ㄌㄧㄠㄇㄧㄡ?”
+
+ㄉㄜㄔㄧㄙ说，“这是一个ㄔㄝㄕㄖ猫，就是这样の<sub>2</sub>。”
+
+”我到没有知ㄉㄠㄔㄝㄕㄖ猫总还ㄍㄜㄖㄧㄋ。其实，我不知ㄉㄠ猫会笑。”
+
+ㄉㄜㄔㄧㄙ说，“你本来知ㄉㄠの不多，就是有这有の<sub>2</sub>。”
+
+###### Chinese
+“我看那汤里的胡椒一定搁得太多啦！” 阿丽思说着就觉要打喷嚏。<br />
+连那公爵夫人自己也有时候打喷嚏；要说那小孩，那就不是打喷嚏就是叫，<br />
+不是叫就是打喷嚏。那厨房里只有两个不打喷嚏的，一个就是那个做饭老妈子，<br />
+一个是一只大猫，笑得两个嘴角都笑到耳朵边去了。<br />
+
+阿丽思就胆小地问道，“请问您可能告诉我你这猫为什么做这样的笑脸呀？”
+
+那公爵夫人道，“这是一个歙县的猫，所以会笑，你这猪！”
+
+“我到没有知道有什么猫做笑脸的。”
+
+那公爵夫人道，“你本来知道的不多，这是有这事的。”
+
+###### English
+"There's certainly too much pepper in that soup!" Alice said to herself,<br />
+as well as she could for sneezing. Even the Duchess sneezed<br />
+occasionally; and as for the baby, it was sneezing and howling<br />
+alternately without a moment's pause. The only two creatures in the<br />
+kitchen that did _not_ sneeze were the cook and a large cat, which was<br />
+grinning from ear to ear.<br />
+
+"Please would you tell me," said Alice, a little timidly, "why your cat<br />
+grins like that?"
+
+"It's a Cheshire-Cat," said the Duchess, "and that's why."
+
+"I didn't know that Cheshire-Cats always grinned; in fact, I didn't know<br />
+that cats _could_ grin," said Alice.
+
+"You don't know much," said the Duchess, "and that's a fact."

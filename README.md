@@ -74,7 +74,7 @@ If bopomofo represents an English pronunciation, there is a many-to-one relation
 | che | ch e | k er |  k a r |
 
 
-Unlike in Chinese bopomofo, Arsteakskan bopomofo tone markers are optional (the character specified by the pronunciation is chosen based on the context), but can be explicitly specified if needed -- particularly, to hint at the intended word when the surrounded context produces multiple alternatives. 
+Unlike in Chinese bopomofo, Arsteakskan bopomofo tone markers are optional (the character specified by the pronunciation is chosen based on the context), but can be explicitly specified if needed -- particularly, to hint at the intended word when the surrounded context produces multiple alternatives.
 
 Tone markers are specified below:
 
@@ -311,3 +311,54 @@ Oooooh, I think I know who did it!<br />
 Reh. I bet you do.<br />
 <sub><sup><b>re(h).</b> wo gan3 shuo.</sup></sub>
 </p>
+
+---
+
+Particles can also be used to extremes.
+
+###### Example
+
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+<b>ㄋㄧㄝ！</b><br />
+Nyeh!<br />
+<sub><sup><b>nyeh!</b></sup></sub>
+</p>
+
+---
+
+<p align="right"><b>Roy (ㄖㄡㄧ)</b></p>
+<img src="roy.png" width="100" align="right"/><br />
+
+<p align="right">
+<b>ㄋㄧㄝ！</b><br />
+Nyeh!<br />
+<sub><sup><b>nyeh!</b></sup></sub>
+</p>
+
+---
+
+<p align="left"><b>Jinhai (金海)</b></p>
+<img src="jinhai.png" width="100" align="left"/><br />
+
+<p align="left">
+<b>ㄋㄧㄝ～！！</b><br />
+Nyeeeeeeeh!!<br />
+<sub><sup><b>nyeh~!!</b></sup></sub>
+</p>
+
+---
+
+<p align="right"><b>Roy (ㄖㄡㄧ)</b></p>
+<img src="roy.png" width="100" align="right"/><br />
+
+<p align="right">
+<b>ㄇㄧㄡ？</b><br />
+_(is confused)_<br />
+<sub><sup><b>miou?</b></sup></sub>
+</p>
+
+---
+

@@ -223,15 +223,15 @@ Particles must be used either at the end of a sentence, or as a standalone expre
 
 | Phrase | Pronunciation | Usage/Definition | Phrase | Pronunciation | Usage/Definition |
 |:-----------:|:-------------:|:-----:|:-----------:|:-------------:|:-----:|
-|   **ㄏㄡㄧ**    |     houi      | hello | **ㄇㄖㄠ**      |    mrao       | _free_
-|   **ㄏㄥ**    |     heng      | arousal particle | **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>&ast;</sup>|
+|   **ㄏㄡㄧ**    |     houi      | hello |  **ㄇㄖㄝ**      |    mre(h)     | 没办法 particle<sup>&ast;</sup>|
+|   **ㄏㄥ**    |     heng      | arousal particle|  **ㄇㄧㄝ**      |    mye(h)     | _free_ |
 |   **ㄇㄧㄠ**    |     miao      | _free_ | **ㄋㄧㄚ**     |    nia       | _free_|
 | **ㄇㄧㄡㄋ？**   |     mioun?   | question particle | **ㄋㄧㄚㄋ**    |    nian       | _free_|
 | **ㄇㄧㄡ？**     |     miou?    | question particle | **ㄋㄧㄝ！**    |    nye(h)!       | jeering particle|
 | **ㄇㄧㄚ**      |     mia       | _free_ | **ㄖㄚ！**      |    ra!       | attacking particle|
 | **ㄇㄧㄚㄢ**    |     mian      | person, dude | **ㄖㄠ**      |    rao       | _free_|
 | **ㄇㄖㄨ！**    |     mru!       | excitement particle | **ㄖㄝ**      |    re(h)       | disgust particle|
-
+| **ㄇㄖㄠ**      |    mrao       | _free_
 
 <sup>&ast;</sup> 没办法 (mei ban fa) is an expression which conveys acceptance with a less-than-ideal situation because "nothing can be done about it."
 

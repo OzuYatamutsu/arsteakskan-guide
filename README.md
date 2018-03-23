@@ -1,4 +1,5 @@
-# ![](jinhai.png) Arsteakskan language reference, yo!
+<img src="jinhai.png" align="center" />
+# Arsteakskan language reference, yo!
 
 ### tl;dr:
  * **Arsteakskan** is a fork of Chinese for Chinese and English speakers. Its primary purpose is to serve as an _auxiliary language_ for representing concepts in Chinese or English when one or more aspects of the Chinese meaning are missing (e.g. knowing how to say a character but not write it, knowing what a character looks like but not how to say it, ...).

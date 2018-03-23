@@ -386,9 +386,9 @@ occasionally; and as for the baby, it was sneezing and howling
 alternately without a moment's pause. The only two creatures in the
 kitchen that did _not_ sneeze were the cook and a large cat, which was
 grinning from ear to ear.<br />
-  "Please would you tell me," said Alice, a little timidly, "why your cat
+&nbsp;&nbsp;"Please would you tell me," said Alice, a little timidly, "why your cat
 grins like that?"<br />
-  "It's a Cheshire-Cat," said the Duchess, "and that's why."<br />
-  "I didn't know that Cheshire-Cats always grinned; in fact, I didn't know
+&nbsp;&nbsp;"It's a Cheshire-Cat," said the Duchess, "and that's why."<br />
+&nbsp;&nbsp;"I didn't know that Cheshire-Cats always grinned; in fact, I didn't know
 that cats _could_ grin," said Alice.<br />
-  "You don't know much," said the Duchess, "and that's a fact."
+&nbsp;&nbsp;"You don't know much," said the Duchess, "and that's a fact."

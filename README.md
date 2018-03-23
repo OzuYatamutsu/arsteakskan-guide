@@ -108,8 +108,8 @@ I'm going to <b>buy</b> a grapefruit knife.<br />
 
 ---
 
-<p align="right"><b>Fei (林飞)</b></p>
-<img src="fei.png" width="100" align="right"/><br />
+<p align="right"><b>Kourii (ㄎㄛㄖㄧ)</b></p>
+<img src="kourii.png" width="100" align="right"/><br />
 
 <p align="right">
 ㄎㄨ！我会<b>卖<sup>(✓)</sup>。</b><br />

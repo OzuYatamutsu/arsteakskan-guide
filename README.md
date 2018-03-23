@@ -380,12 +380,13 @@ Nyeeeeeeeh!!<br />
   那公爵夫人道，“你本来知道的不多，这是有这事的。”
 
 ###### English
-"There's certainly too much pepper in that soup!" Alice said to herself,
-as well as she could for sneezing. Even the Duchess sneezed
-occasionally; and as for the baby, it was sneezing and howling
-alternately without a moment's pause. The only two creatures in the
-kitchen that did _not_ sneeze were the cook and a large cat, which was
+"There's certainly too much pepper in that soup!" Alice said to herself,<br />
+as well as she could for sneezing. Even the Duchess sneezed<br />
+occasionally; and as for the baby, it was sneezing and howling<br />
+alternately without a moment's pause. The only two creatures in the<br />
+kitchen that did _not_ sneeze were the cook and a large cat, which was<br />
 grinning from ear to ear.<br />
+
 &nbsp;&nbsp;"Please would you tell me," said Alice, a little timidly, "why your cat
 grins like that?"<br />
 &nbsp;&nbsp;"It's a Cheshire-Cat," said the Duchess, "and that's why."<br />

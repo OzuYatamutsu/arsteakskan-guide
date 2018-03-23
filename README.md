@@ -387,12 +387,12 @@ alternately without a moment's pause. The only two creatures in the<br />
 kitchen that did _not_ sneeze were the cook and a large cat, which was<br />
 grinning from ear to ear.<br />
 
-"Please would you tell me," said Alice, a little timidly, "why your cat
+"Please would you tell me," said Alice, a little timidly, "why your cat<br />
 grins like that?"
 
 "It's a Cheshire-Cat," said the Duchess, "and that's why."
 
-"I didn't know that Cheshire-Cats always grinned; in fact, I didn't know
+"I didn't know that Cheshire-Cats always grinned; in fact, I didn't know<br />
 that cats _could_ grin," said Alice.
 
 "You don't know much," said the Duchess, "and that's a fact."

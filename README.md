@@ -367,6 +367,19 @@ Nyeeeeeeeh!!<br />
 ###### Arsteakskan
 
 ###### Chinese
+"我看那汤里的胡椒一定搁得太多啦！" 阿丽思说着就觉要打喷嚏。
+
+实在那空气当中的胡椒面儿是不少。连那公爵夫人自己也有时候打喷嚏；要说那小孩，
+那就不是打喷嚏就是叫，不是叫就是打喷嚏。那厨房里只有两个不打喷嚏的，
+一个就是那个做饭老妈子，一个是一只大猫偎在灶边上，笑得两个嘴角都笑到耳朵边去了。
+
+  阿丽思就胆小地问道，“请问您可能告诉我你这猫为什么做这样的笑脸呀？”
+
+  那公爵夫人道，“这是一个歙县的猫，所以会笑，你这猪！”
+
+  “我到没有知道有什么猫做笑脸的。”
+
+  那公爵夫人道，“你本来知道的不多，这是有这事的。”
 
 ###### English
 "There's certainly too much pepper in that soup!" Alice said to herself,
@@ -378,7 +391,10 @@ grinning from ear to ear.
 
   "Please would you tell me," said Alice, a little timidly, "why your cat
 grins like that?"
+
   "It's a Cheshire-Cat," said the Duchess, "and that's why."
+
   "I didn't know that Cheshire-Cats always grinned; in fact, I didn't know
 that cats _could_ grin," said Alice.
+
   "You don't know much," said the Duchess, "and that's a fact."

@@ -356,7 +356,7 @@ Nyeeeeeeeh!!<br />
 
 <p align="right">
 <b>ㄇㄧㄡ？</b><br />
-_(is confused)_<br />
+<i>(is confused)</i><br />
 <sub><sup><b>miou?</b></sup></sub>
 </p>
 
